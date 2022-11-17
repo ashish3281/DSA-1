@@ -1,4 +1,6 @@
 # DSA-100Days-Challenge
+<h2>Pattern Question</h2>
+<pre>
 QUESTION-1                                                      
 n=2
 *	
@@ -143,6 +145,6 @@ n=5
 *		*		*	
 *	*		*	*	
 *				*	
-
+</pre>
 
 
