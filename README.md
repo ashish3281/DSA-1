@@ -1,4 +1,12 @@
 # DSA-100Days-Challenge
+<hr>
+<pre>
+Day One --question 1 to 7
+Day Two --question 8 to 13
+Day Three --question 14 to 20
+Day Four --question 21 to 26
+</pre>
+<hr>
 <h2>Pattern Question</h2>
 <pre>
 QUESTION-1                                                      
