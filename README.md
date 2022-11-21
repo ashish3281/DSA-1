@@ -7,6 +7,7 @@ Day Three --question 14 to 20
 Day Four --question 21 to 26
 Day five --question 27 to 32
 Day six --question 33 to 37
+Day Seven --question 38 to 40
 </pre>
 <hr>
 <h2>Pattern Question</h2>
