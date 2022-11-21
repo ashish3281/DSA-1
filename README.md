@@ -13,3 +13,4 @@ Day Seven --question 38 to 40
 <h2>Pattern Question</h2>
 <p>Question 1 to 20 is Pattern question . You can access the question from the uploaded PDF </p>
 [patternQuestion.pdf](https://github.com/ashish3281/DSA-100Days-Challenge/files/10058032/patternQuestion.pdf)
+<h2>Number System Question</h2>
