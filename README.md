@@ -15,3 +15,8 @@ Day Seven --question 38 to 40
 [patternQuestion.pdf](https://github.com/ashish3281/DSA-100Days-Challenge/files/10058032/patternQuestion.pdf)
 <h2>Number System Question</h2>
 <p>Question 21 to 26 is number system question</p>
+<pre>
+decimal to any base
+any base to decimal
+any base to any base
+</pre>
