@@ -30,3 +30,9 @@ any base Multiplication
 </pre>
 <h2>Function Question</h2>
 <p>Question 27 to 40 is number system question</p>
+<pre>
+Is a prime number
+Print all prime till N
+Print Fibonanic till N
+Count Digit in a Number
+</pre>
