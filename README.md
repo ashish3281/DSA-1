@@ -36,4 +36,7 @@ Is a prime number
 Print all prime till N
 Print Fibonanic till N
 Count Digit in a Number
+Digit of a Number
+Reverse of a number
+Inverse of a number
 </pre>
