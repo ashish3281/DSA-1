@@ -39,4 +39,8 @@ Count Digit in a Number
 Digit of a Number
 Reverse of a number
 Inverse of a number
+Rotate of a number
+Gcd and Lcm
+Prime Factorization of a number
+The Curious Case of Benjamin Bulbs
 </pre>
