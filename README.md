@@ -43,4 +43,7 @@ Rotate of a number
 Gcd and Lcm
 Prime Factorization of a number
 The Curious Case of Benjamin Bulbs
+Grading System
+Print Z
+
 </pre>
