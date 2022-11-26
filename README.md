@@ -50,3 +50,6 @@ Print Z
 </pre>
 <h2>Array Question</h2>
 <p>Question 41 to 53 is Array Based question</p>
+<pre>
+span of Array
+</pre>
