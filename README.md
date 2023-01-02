@@ -57,6 +57,8 @@ span of Array
 Difference of two array
 Reverse of an array
 Rotate an array
-Reverse of an array
+Inverse of an array
 Subarray Problem
+Broken Economy
+First Index and Last Index
 </pre>
