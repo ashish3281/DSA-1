@@ -61,4 +61,6 @@ Inverse of an array
 Subarray Problem
 Broken Economy
 First Index and Last Index
+Subset Of an array
+Inversted Bar chart
 </pre>
