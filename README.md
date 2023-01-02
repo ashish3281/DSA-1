@@ -54,4 +54,7 @@ Print Z
 <p>Question 41 to 53 is Array Based question</p>
 <pre>
 span of Array
+Difference of two array
+Reverse of an array
+Rotate an array
 </pre>
