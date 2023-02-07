@@ -70,4 +70,5 @@ Inversted Bar chart
 2d Array Demo
 Matrix Multiplication
 Wakanda-1
+Spiral Display
 </pre>
