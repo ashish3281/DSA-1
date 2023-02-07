@@ -64,3 +64,5 @@ First Index and Last Index
 Subset Of an array
 Inversted Bar chart
 </pre>
+<h2>2D Array Question</h2>
+<p>Question 54 to  is Array Based question</p>
