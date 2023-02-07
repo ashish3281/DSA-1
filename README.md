@@ -66,3 +66,8 @@ Inversted Bar chart
 </pre>
 <h2>2D Array Question</h2>
 <p>Question 54 to  is Array Based question</p>
+<pre>
+2d Array Demo
+Matrix Multiplication
+Wakanda-1
+</pre>
