@@ -74,4 +74,7 @@ Inversted Bar chart
 Matrix Multiplication
 Wakanda-1
 Spiral Display
+Exit point of a matrix
+rotate by 90
+Ring Rotate / Shell rotate
 </pre>
