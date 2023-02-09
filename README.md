@@ -78,4 +78,7 @@ Spiral Display
 Exit point of a matrix
 rotate by 90
 Ring Rotate / Shell rotate
+The State of wakand-2
+Saddle price
+Search in 2d array
 </pre>
