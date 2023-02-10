@@ -87,4 +87,5 @@ Search in 2d array
 <pre>
 ArrayList---Remove Primes 
 String-- String compression , print all palindromic substring
+StringBuilder-- print all permutation of a string
 </pre>
