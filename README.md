@@ -18,7 +18,7 @@ Due to my university Exams I am not continue but Not let start again
 Day Fourteen --question 54 to 56
 Day Fifteen --question 57 to 60
 Day Sxixteen --question 61 to 63
-
+Day Seventeen --question 64 to 67
 </pre>
 <hr>
 <h2>Pattern Question</h2>
