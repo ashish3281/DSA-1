@@ -68,8 +68,8 @@ First Index and Last Index
 Subset Of an array
 Inversted Bar chart
 </pre>
-<h2>2D Array Question</h2>
-<p>Question 54 to  is Array Based question</p>
+<h2>2D Array Questions</h2>
+<p>Question 54 to 63 is Array Based question</p>
 <pre>
 2d Array Demo
 Matrix Multiplication
@@ -82,3 +82,5 @@ The State of wakand-2
 Saddle price
 Search in 2d array
 </pre>
+<h2>2D ArrayList, String, StringBuilder Questions</h2>
+<p>Question 54 to 63 is Array Based question</p>
