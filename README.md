@@ -84,3 +84,6 @@ Search in 2d array
 </pre>
 <h2>2D ArrayList, String, StringBuilder Questions</h2>
 <p>Question 54 to 63 is Array Based question</p>
+<pre>
+Remove Primes
+</pre>
