@@ -84,9 +84,11 @@ Saddle price
 Search in 2d array
 </pre>
 <h2>2D ArrayList, String, StringBuilder Questions</h2>
-<p>Question 54 to 63 is Array Based question</p>
+<p>Question 64 to 67 is Array Based question</p>
 <pre>
 ArrayList---Remove Primes 
 String-- String compression , print all palindromic substring
 StringBuilder-- print all permutation of a string
 </pre>
+<h2>Recursion</h2>
+<p>Question 68 to 63 is Array Based question</p>
