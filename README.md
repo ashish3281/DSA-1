@@ -20,6 +20,7 @@ Day Fifteen --question 57 to 60
 Day Sixteen --question 61 to 63
 Day Seventeen --question 64 to 67
 Day Eighteen -- question 68 to 70
+Day Nineteen --question 71 to 73
 </pre>
 <hr>
 <h2>Pattern Question</h2>
