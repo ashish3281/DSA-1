@@ -95,6 +95,8 @@ StringBuilder-- print all permutation of a string
 <h2>Recursion</h2>
 <p>Question 68 to 63 is Array Based question</p>
 <pre>
+   Basic Of Recursion
+   ------------------
 Print Decreasing
 Print Increasing
 PrintDecreasingIncreasing
