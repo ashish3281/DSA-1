@@ -103,4 +103,7 @@ Power Linear
 Logrithmic Power
 Print ZigZag
 Tower Of Hanoi
+   Recursion with Array
+   --------------------
+Display Array
 </pre>
