@@ -101,4 +101,6 @@ PrintDecreasingIncreasing
 Factorial
 Power Linear
 Logrithmic Power
+Print ZigZag
+Tower Of Hanoi
 </pre>
