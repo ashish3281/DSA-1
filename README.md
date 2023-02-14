@@ -109,4 +109,8 @@ Tower Of Hanoi
    Recursion with Array
    --------------------
 Display Array
+Display Array (from last index)
+First Index
+Max of Array
+
 </pre>
