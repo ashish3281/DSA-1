@@ -23,6 +23,7 @@ Day Eighteen -- question 68 to 70
 Day Nineteen --question 71 to 73
 day Twenty --question 74 to 76
 Day Twentyone --question 77 to 79
+Day Twentytwo --question 80 to 81
 </pre>
 <hr>
 <h2>Pattern Question</h2>
