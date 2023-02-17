@@ -114,5 +114,9 @@ Display Array
 Display Array (from last index)
 First Index
 Max of Array
+    Recursion with ArrayList
+    ------------------------
+Get Subsequence
+Get KPC 
 
 </pre>
