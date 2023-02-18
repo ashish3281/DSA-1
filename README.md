@@ -25,6 +25,7 @@ day Twenty --question 74 to 76
 Day Twentyone --question 77 to 79
 Day Twentytwo --question 80 to 81
 Day TwentyThree --question 82 to 83
+Day Twentyfour -- Revision day and question practice
 </pre>
 <hr>
 <h2>Pattern Question</h2>
