@@ -121,5 +121,7 @@ Max of Array
     ------------------------
 Get Subsequence
 Get KPC 
-
+Get Stair Path
+Get Maze Path
+Get Maze Path with Jumps
 </pre>
