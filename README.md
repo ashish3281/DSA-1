@@ -28,6 +28,7 @@ Day TwentyThree --question 82 to 83
 Day Twentyfour -- Revision day and question practice
 Day Twentyfive --Revision and question practice
 Day Twentysix --question 84 to 85
+Day Twentyseven --question 87 to 89
 </pre>
 <hr>
 <h2>Pattern Question</h2>
