@@ -134,4 +134,6 @@ Get KPC
 Get Stair Path
 Get Maze Path
 Get Maze PAth with Jump
+Print Permutation
+Print Encoding
 </pre>
