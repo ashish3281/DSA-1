@@ -132,4 +132,6 @@ Get Maze Path with Jumps
 Get Subsequence
 Get KPC 
 Get Stair Path
+Get Maze Path
+Get Maze PAth with Jump
 </pre>
