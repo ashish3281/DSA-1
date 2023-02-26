@@ -144,3 +144,7 @@ Print Encoding
 flood-fill
 target sum
 </pre>
+<h2>Practice  Question</h2>
+<pre>
+Solve me first
+</pre>
