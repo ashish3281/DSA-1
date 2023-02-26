@@ -147,4 +147,9 @@ target sum
 <h2>Practice  Question</h2>
 <pre>
 Solve me first
+Simple array sum
+compare the triplet
+a very big sum
+diagonal difference
+plus minus
 </pre>
