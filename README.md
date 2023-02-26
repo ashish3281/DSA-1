@@ -33,6 +33,7 @@ Day Twentyeight --question 90 to 91
 Day TwentyNine --question 92 to 93
 Day Thirty --question 94 to 95 
 Day Thirtyone --no question for today
+Day Thirtytwo --practice question 1 to 6
 </pre>
 <hr>
 <h2>Pattern Question</h2>
