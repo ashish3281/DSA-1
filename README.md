@@ -34,6 +34,7 @@ Day TwentyNine --question 92 to 93
 Day Thirty --question 94 to 95 
 Day Thirtyone --no question for today
 Day Thirtytwo --practice question 1 to 6
+Day Thirtythree --working on n queen problem0
 </pre>
 <hr>
 <h2>Pattern Question</h2>
