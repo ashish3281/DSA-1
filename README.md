@@ -145,6 +145,8 @@ Print Encoding
     ---------------------------
 flood-fill
 target sum
+N Queen Problem
+Knights turn
 </pre>
 <h2>Practice  Question</h2>
 <pre>
