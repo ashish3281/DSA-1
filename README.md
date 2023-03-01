@@ -149,6 +149,13 @@ target sum
 N Queen Problem
 Knights turn
 </pre>
+
+<h2>Sorting</h2>
+<pre>
+Bubble sort
+Selection sort
+Merge two sorted array
+</pre>
 <h2>Practice  Question</h2>
 <pre>
 Solve me first
