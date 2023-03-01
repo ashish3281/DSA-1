@@ -36,6 +36,7 @@ Day Thirtyone --no question for today
 Day Thirtytwo --practice question 1 to 6
 Day Thirtythree --working on n queen problem0
 Day Thirtyfour --96 to 97
+Day Thirtyfive --98 to 100
 </pre>
 <hr>
 <h2>Pattern Question</h2>
