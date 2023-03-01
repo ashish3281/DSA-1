@@ -108,7 +108,7 @@ String-- String compression , print all palindromic substring
 StringBuilder-- print all permutation of a string
 </pre>
 <h2>Recursion</h2>
-<p>Question 68 to 63 is Array Based question</p>
+<p>Question 68 to 97 is recursion Based question</p>
 <pre>
    Basic Of Recursion
    ------------------
@@ -151,6 +151,7 @@ Knights turn
 </pre>
 
 <h2>Sorting</h2>
+<p>Question 98 to  is Sorting Based question</p>
 <pre>
 Bubble sort
 Selection sort
