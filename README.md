@@ -156,6 +156,8 @@ Knights turn
 Bubble sort
 Selection sort
 Merge two sorted array
+Insertion Sorted
+Merge Sorted
 </pre>
 <h2>Practice  Question</h2>
 <pre>
