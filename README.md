@@ -159,6 +159,8 @@ Selection sort
 Merge two sorted array
 Insertion Sorted
 Merge Sorted
+Sort01
+Sort012
 </pre>
 <h2>Practice  Question</h2>
 <pre>
