@@ -37,7 +37,8 @@ Day Thirtytwo --practice question 1 to 6
 Day Thirtythree --working on n queen problem0
 Day Thirtyfour --96 to 97
 Day Thirtyfive --98 to 100
-Day Thirtyfour --101 t0 104
+Day Thirtyfour -101 t0 104
+Day Thirtyfive -105 to 107
 </pre>
 <hr>
 <h2>Pattern Question</h2>
