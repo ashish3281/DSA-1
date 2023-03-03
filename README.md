@@ -161,6 +161,9 @@ Insertion Sorted
 Merge Sorted
 Sort01
 Sort012
+partiotion of an array
+Quick Sort
+Quick Select
 </pre>
 <h2>Practice  Question</h2>
 <pre>
