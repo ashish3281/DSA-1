@@ -1,46 +1,5 @@
-# DSA-100Days-Challenge
-<hr>
-<pre>
-Day One --question 1 to 7
-Day Two --question 8 to 13
-Day Three --question 14 to 20
-Day Four --question 21 to 26
-Day Five --question 27 to 32
-Day Six --question 33 to 37
-Day Seven --question 38 to 40
-Day Eight --question 41 to 43
-Day Nine --question 44 to 47
-Day Ten --question 48 to 50
-Day Eleven --Revision Day
-Day Twelve --question 51 to 53
-Day Thirteen --Revision Day
-Due to my university Exams I am not continue but Not let start again
-Day Fourteen --question 54 to 56
-Day Fifteen --question 57 to 60
-Day Sixteen --question 61 to 63
-Day Seventeen --question 64 to 67
-Day Eighteen -- question 68 to 70
-Day Nineteen --question 71 to 73
-day Twenty --question 74 to 76
-Day Twentyone --question 77 to 79
-Day Twentytwo --question 80 to 81
-Day TwentyThree --question 82 to 83
-Day Twentyfour -- Revision day and question practice
-Day Twentyfive --Revision and question practice
-Day Twentysix --question 84 to 85
-Day Twentyseven --question 87 to 89
-Day Twentyeight --question 90 to 91
-Day TwentyNine --question 92 to 93
-Day Thirty --question 94 to 95 
-Day Thirtyone --no question for today
-Day Thirtytwo --practice question 1 to 6
-Day Thirtythree --working on n queen problem0
-Day Thirtyfour --96 to 97
-Day Thirtyfive --98 to 100
-Day Thirtyfour -101 t0 104
-Day Thirtyfive -105 to 107
-</pre>
-<hr>
+# DSA-1
+
 <h2>Pattern Question</h2>
 <p>Question 1 to 20 is Pattern question . You can access the question from the uploaded PDF </p>
 <pre>
